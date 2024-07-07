@@ -6,8 +6,8 @@ It requires the user to add their own OPENAI_API_KEY to .env file.
 
 
 To run the app, run this in your terminal:
-'''
+ ``` 
 streamlit run app.py
-'''
+ ``` 
 
 
